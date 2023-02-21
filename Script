@@ -1,0 +1,101 @@
+-- Get this https://www.roblox.com/bundles/741/Linlin equip the Head And Turn The Head Size All Away Up And Execute!
+ 
+--equip an rthro head then execute
+ 
+for i,v in pairs(game.Players.LocalPlayer.Character:GetDescendants()) do
+   if v.Name == "OriginalSize" then
+       v:Destroy()
+   end
+end
+game.Players.LocalPlayer.Character.Humanoid:FindFirstChild("BodyDepthScale"):Destroy()
+wait(1)
+for i,v in pairs(game.Players.LocalPlayer.Character:GetDescendants()) do
+   if v.Name == "OriginalSize" then
+       v:Destroy()
+   end
+end
+game.Players.LocalPlayer.Character.Humanoid:FindFirstChild("BodyTypeScale"):Destroy()
+wait(1)
+for i,v in pairs(game.Players.LocalPlayer.Character:GetDescendants()) do
+   if v.Name == "OriginalSize" then
+       v:Destroy()
+   end
+end
+game.Players.LocalPlayer.Character.Humanoid:FindFirstChild("HeadScale"):Destroy()
+for i,v in pairs(game.Players.LocalPlayer.Character:GetDescendants()) do
+   if v.Name == "OriginalSize" then
+       v:Destroy()
+   end
+end
+game.Players.LocalPlayer.Character.Humanoid:FindFirstChild("BodyHeightScale"):Destroy()
+wait(1)
+for i,v in pairs(game.Players.LocalPlayer.Character:GetDescendants()) do
+   if v.Name == "OriginalSize" then
+       v:Destroy()
+   end
+end
+game.Players.LocalPlayer.Character.Humanoid:FindFirstChild("BodyWidthScale"):Destroy()
+wait(1)
+for i,v in pairs(game.Players.LocalPlayer.Character:GetDescendants()) do
+   if v.Name == "OriginalSize" then
+       v:Destroy()
+   end
+end
+game.Players.LocalPlayer.Character.Humanoid:FindFirstChild("BodyProportionScale"):Destroy()
+for i,v in pairs(game.Players.LocalPlayer.Character:GetDescendants()) do
+   if v.Name == "OriginalSize" then
+       v:Destroy()
+   end
+end
+game.Players.LocalPlayer.Character.Humanoid:FindFirstChild("BodyProportionScale"):Destroy()
+for i,v in pairs(game.Players.LocalPlayer.Character:GetDescendants()) do
+   if v.Name == "OriginalSize" then
+       v:Destroy()
+   end
+end
+game.Players.LocalPlayer.Character.Humanoid:FindFirstChild("BodyProportionScale"):Destroy()
+for i,v in pairs(game.Players.LocalPlayer.Character:GetDescendants()) do
+   if v.Name == "OriginalSize" then
+       v:Destroy()
+   end
+end
+game.Players.LocalPlayer.Character.Humanoid:FindFirstChild("BodyProportionScale"):Destroy()
+for i,v in pairs(game.Players.LocalPlayer.Character:GetDescendants()) do
+   if v.Name == "OriginalSize" then
+   end
+end
+game.Players.LocalPlayer.Character.Humanoid:FindFirstChild("BodyProportionScale"):Destroy()
+for i,v in pairs(game.Players.LocalPlayer.Character:GetDescendants()) do
+   if v.Name == "OriginalSize" then
+   end
+end
+game.Players.LocalPlayer.Character.Humanoid:FindFirstChild("BodyProportionScale"):Destroy()
+for i,v in pairs(game.Players.LocalPlayer.Character:GetDescendants()) do
+   if v.Name == "OriginalSize" then
+   end
+end
+game.Players.LocalPlayer.Character.Humanoid:FindFirstChild("BodyProportionScale"):Destroy()
+for i,v in pairs(game.Players.LocalPlayer.Character:GetDescendants()) do
+   if v.Name == "OriginalSize" then
+   end
+end
+game.Players.LocalPlayer.Character.Humanoid:FindFirstChild("BodyProportionScale"):Destroy()
+for i,v in pairs(game.Players.LocalPlayer.Character:GetDescendants()) do
+   if v.Name == "OriginalSize" then
+   end
+end
+game.Players.LocalPlayer.Character.Humanoid:FindFirstChild("BodyProportionScale"):Destroy()
+for i,v in pairs(game.Players.LocalPlayer.Character:GetDescendants()) do
+   if v.Name == "OriginalSize" then
+   end
+end
+game.Players.LocalPlayer.Character.Humanoid:FindFirstChild("BodyProportionScale"):Destroy()
+for i,v in pairs(game.Players.LocalPlayer.Character:GetDescendants()) do
+   if v.Name == "OriginalSize" then
+   end
+end
+game.Players.LocalPlayer.Character.Humanoid:FindFirstChild("BodyProportionScale"):Destroy()
+for i,v in pairs(game.Players.LocalPlayer.Character:GetDescendants()) do
+   if v.Name == "OriginalSize" then
+  end
+end
